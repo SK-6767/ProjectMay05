@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println(a);
 		String name="Greens";
 		System.out.println(name);
+		System.out.println("LOgin");
 	}
 
 }
