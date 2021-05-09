@@ -9,9 +9,8 @@ public class Sample {
 		System.out.println("User");
 		float f=1.23f;
 		System.out.println(f);
-
-		
-
+		int b=30;
+		System.out.println(b);
 	}
 
 }
