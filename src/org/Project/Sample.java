@@ -7,6 +7,8 @@ public class Sample {
 		String name="Greens";
 		System.out.println(name);
 		System.out.println("User");
+		int b=30;
+		System.out.println(b);
 	}
 
 }
