@@ -15,7 +15,8 @@ public class Sample {
 		System.out.println(cliname);
 		double CliID=45678;
 		System.out.println("CliId");
-		
+		String phNo="9994296767";
+		System.out.println("phNo");
 
 		
 
