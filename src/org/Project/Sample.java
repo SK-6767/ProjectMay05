@@ -9,6 +9,8 @@ public class Sample {
 		System.out.println("User");
 		float f=1.23f;
 		System.out.println(f);
+		int b=30;
+		System.out.println(b);
 		String cliname="Karthi";
 		System.out.println(cliname);
 		double CliID=45678;
@@ -17,6 +19,7 @@ public class Sample {
 
 		
 
-	}
+
+	}		
 
 }
