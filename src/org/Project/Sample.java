@@ -11,6 +11,15 @@ public class Sample {
 		System.out.println(f);
 		int b=30;
 		System.out.println(b);
-	}
+		String cliname="Karthi";
+		System.out.println(cliname);
+		double CliID=45678;
+		System.out.println("CliId");
+		
+
+		
+
+
+	}		
 
 }
