@@ -9,6 +9,11 @@ public class Sample {
 		System.out.println("User");
 		float f=1.23f;
 		System.out.println(f);
+		String cliname="Karthi";
+		System.out.println(cliname);
+		double CliID=45678;
+		System.out.println("CliId");
+		
 
 		
 
