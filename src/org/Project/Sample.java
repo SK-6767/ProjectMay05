@@ -17,8 +17,14 @@ public class Sample {
 		System.out.println("CliId");
 		String phNo="9994296767";
 		System.out.println("phNo");
+<<<<<<< HEAD
+		
+		String city="chennai";
+		System.out.println("city");
+=======
         String Id="67676";
         System.out.println("Id");
+>>>>>>> dba6cc0218ecb3982dbf38a2af1705654569282b
 		
 
 
